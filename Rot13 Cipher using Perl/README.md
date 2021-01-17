@@ -29,17 +29,17 @@ Following are the Perl projects
 
 ### Rot13-Cipher
 
-#### Overview
+1. #### Overview
 
 Rot13 is an encryption method in which each of the 26 characters a-z or A-Z is replaced by
 the character 13 places ahead or 13 places back in the alphabet. Write a Perl program that
 reads a series of text and outputs the rot13 equivalent.
 
-**Input to rot13**: *This sentence is to be converted in Rot13 Format. Hangon.*
+* **Input to rot13**: *This sentence is to be converted in Rot13 Format. Hangon.*
 
-**Output of rot13**: *Guvf fragrapr vf gb or pbairegrq va Ebg13 Sbezng. Unatba.*
+* **Output of rot13**: *Guvf fragrapr vf gb or pbairegrq va Ebg13 Sbezng. Unatba.*
 
-**Output**
+2. **Output**
 
 <br/>
 <p align="left">
