@@ -29,7 +29,7 @@ Following are the Perl projects
   <img src="https://www.vectorlogo.zone/logos/perl/perl-icon.svg" alt="perl" width="40" height="40"/>
 </p>
 
-**1.** ### Rot13-Cipher
+1. ### Rot13-Cipher
 
 1. #### Overview
 
@@ -48,7 +48,7 @@ reads a series of text and outputs the rot13 equivalent.
   <img src="https://1.bp.blogspot.com/-NL42Z9T4fYM/YAQM1cRmCoI/AAAAAAAAAd4/QkJmiQhm6IgvOBybnnx3ogetMQTLGj98ACLcBGAsYHQ/s320/rot13.jpg">
 </p>
 
-**2.** ### Even-Odd-vehical-on-Even-Odd-day
+2. ### Even-Odd-vehical-on-Even-Odd-day
 
 **Problem statement:** 
 
