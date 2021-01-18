@@ -5,7 +5,7 @@
 * [Perl-Practice](#perl-practice)
     * [Perl-Datatype](#Perl-Datatype)
     * [Control-structure](#Control-structure)
-    * [Perl Pakages](#Perl Pakages)
+    * [Perl-Pakages](#Perl-Pakages)
     * [Subroutines](#Subroutines)
     * [File-I/O](#File-I/O)
     * [Directories](#Directories)
