@@ -64,10 +64,15 @@ reads a series of text and outputs the rot13 equivalent.
 **b.** Write a PERL script that will accept the date as input and determine from the above file, the cars that would be permitted on the road on that day based on the odd-even rule. The output should display the name and registration number of the permitted vehicles.
 
 **Solution:**
+
 **Step followed**
+
 a. Data Input
+
 b. Creating file to store data
+
 c. Sorting on the basis of Even and Odd
+
 d. Creating new file to store evan and odd registration number speratly
 
 **Perl type used** *File handling, Regural expression, Control stucuture, Looping construct, Standard I\O*
