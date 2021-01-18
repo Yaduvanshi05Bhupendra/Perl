@@ -3,23 +3,25 @@
 ## Index
 
 * [Perl-Practice](#perl-practice)
-    * [Perl-Datatype](#tensor-flow-tutorials)
-    * [theano](#theano-tutorials)
-    * [keras](#keras-tutorials)
-    * [caffe](#deep-learning-misc)
-* [Perl-Project](#Perl-projects)
+    * [Perl-Datatype](#Perl-Datatype)
+    * [Control-structure](#Control-structure)
+    * [Perl Pakages](#Perl Pakages)
+    * [Subroutines](#Subroutines)
+    * [File-I/O](#File-I/O)
+    * [Directories](#Directories)
+* [Perl-mini-projects](#Perl-mini-projects)
     * [Rot13-Cipher](#Rot13-Cipher)
-    * [theano](#theano-tutorials)
-    * [keras](#keras-tutorials)
-    * [caffe](#deep-learning-misc)
+    * [Even-Odd-vehical-on-Even-Odd-day](#Even-Odd-vehical-on-Even-Odd-day)
+    * [Changing-180nm-file-to-90nm](#Changing-180nm-file-to-90nm)
+    * [Genrating-Gates-verilog-modules-and-Testbench-modules](#Genrating-Gates-verilog-modules-and-Testbench-modules)
 * [misc](#misc)
-* [notebook-installation](#notebook-installation)
-* [credits](#credits)
-* [contributing](#contributing)
-* [contact-info](#contact-info)
-* [license](#license)
+* [Perl-installation](#notebook-installation)
+* [Credits](#credits)
+* [Contributing](#contributing)
+* [Contact-info](#contact-info)
+* [License](#license)
 
-## Perl-Projects
+## Perl-mini-Projects
 Following are the Perl projects
 
 <br/>
