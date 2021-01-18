@@ -44,7 +44,7 @@ reads a series of text and outputs the rot13 equivalent.
 2. **Output**
 
 <br/>
-<p align="left">
+<p align="center">
   <img src="https://1.bp.blogspot.com/-NL42Z9T4fYM/YAQM1cRmCoI/AAAAAAAAAd4/QkJmiQhm6IgvOBybnnx3ogetMQTLGj98ACLcBGAsYHQ/s320/rot13.jpg">
 </p>
 
