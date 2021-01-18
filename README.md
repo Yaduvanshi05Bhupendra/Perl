@@ -29,7 +29,7 @@ Following are the Perl projects
   <img src="https://www.vectorlogo.zone/logos/perl/perl-icon.svg" alt="perl" width="40" height="40"/>
 </p>
 
-1. ### Rot13-Cipher
+**1.** ### Rot13-Cipher
 
 1. #### Overview
 
@@ -48,12 +48,14 @@ reads a series of text and outputs the rot13 equivalent.
   <img src="https://1.bp.blogspot.com/-NL42Z9T4fYM/YAQM1cRmCoI/AAAAAAAAAd4/QkJmiQhm6IgvOBybnnx3ogetMQTLGj98ACLcBGAsYHQ/s320/rot13.jpg">
 </p>
 
-2. ### Even-Odd-vehical-on-Even-Odd-day
+**2.** ### Even-Odd-vehical-on-Even-Odd-day
 **Problem statement:** 
 a. The government has introduced a road rationing system by imposing the ‘odd-even’ rule. On even dates, only cars with license plates ending with an even number will be allowed on the city roads. On odd dates cars with license plates ending with odd number will be allowed. Write a PERL script that will help to create a file containing records of all cars in the city. The input data should be entered while running the script. The file should contain 20 entries in the following format 
+
 |Name | Registration Number |
 | Rahul | TN02BC9906 |
 |Ganesh | TN01AC1525 |
+
 b. Write a PERL script that will accept the date as input and determine from the above file, the cars that would be permitted on the road on that day based on the odd-even rule. The output should display the name and registration number of the permitted vehicles.
 **Solution:**
 
