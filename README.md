@@ -41,7 +41,7 @@ reads a series of text and outputs the rot13 equivalent.
 
 * **Output of rot13**: *Guvf fragrapr vf gb or pbairegrq va Ebg13 Sbezng. Unatba.*
 
-2. ####Output
+2. #### Output
 
 <br/>
 <p align="center">
@@ -61,7 +61,7 @@ reads a series of text and outputs the rot13 equivalent.
 **b.** Write a PERL script that will accept the date as input and determine from the above file, the cars that would be permitted on the road on that day based on the odd-even rule. The output should display the name and registration number of the permitted vehicles.
 
 **Solution:**
-
+For code please click here [Solution] (Perl mini Projects/Odd-Even.pl)
 <!---
 IPython Notebook(s) demonstrating deep learning functionality.
 
