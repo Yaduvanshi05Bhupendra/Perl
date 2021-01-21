@@ -1,5 +1,7 @@
 # Perl Practice and Projects
 
+<h1 align="center">Perl Practice and Projects</h1>
+
 <br/>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/perl/perl-icon.svg" alt="perl" width="40" height="40"/>
