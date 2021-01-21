@@ -1,5 +1,3 @@
-# Perl Practice and Projects
-
 <h1 align="center">Perl Practice and Projects</h1>
 
 <br/>
