@@ -1,5 +1,10 @@
 # Perl Practice and Projects
 
+<br/>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/perl/perl-icon.svg" alt="perl" width="40" height="40"/>
+</p>
+
 ## Index
 
 * [Perl-Practice](#perl-practice)
@@ -9,25 +14,30 @@
     * [Subroutines](#Subroutines)
     * [File-I/O](#File-I/O)
     * [Directories](#Directories)
+    
 * [Perl-mini-projects](#Perl-mini-projects)
     * [Rot13-Cipher](#Rot13-Cipher)
     * [Even-Odd-vehical-on-Even-Odd-day](#Even-Odd-vehical-on-Even-Odd-day)
     * [Changing-180nm-file-to-90nm](#Changing-180nm-file-to-90nm)
     * [Genrating-Gates-verilog-modules-and-Testbench-modules](#Genrating-Gates-verilog-modules-and-Testbench-modules)
-* [misc](#misc)
-* [Perl-installation](#notebook-installation)
-* [Credits](#credits)
-* [Contributing](#contributing)
-* [Contact-info](#contact-info)
-* [License](#license)
+    
+* [Misc](#Misc)
+* [Python-installation](#Python-Installation)
+* [Credits](#Credits)
+* [Contributing](#Contributing)
+* [Contact-Info](#Contact-Info)
+* [License](#License)
+
+## Perl-Practice
+
+### Perl-Datatype
+### Control-structure
+### Perl-Pakages
+### Subroutines
+### Directories
 
 ## Perl-mini-Projects
 Following are the Perl projects
-
-<br/>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/perl/perl-icon.svg" alt="perl" width="40" height="40"/>
-</p>
 
 1. ### Rot13-Cipher
 
@@ -80,35 +90,43 @@ d. Creating new file to store evan and odd registration number speratly
 *For code please click here*  [Solution](https://github.com/Yaduvanshi05Bhupendra/Perl/blob/main/Perl%20mini%20Projects/Odd-Even.pl)
 
 Note: I'm beginner please suggest any improvement :grin:
-<!---
-IPython Notebook(s) demonstrating deep learning functionality.
 
-<br/>
-<p align="center">
-  <img src="https://avatars0.githubusercontent.com/u/15658638?v=3&s=100">
-</p>
+## Misc
 
-### tensor-flow-tutorials
+## Perl-Installation
 
-Additional TensorFlow tutorials:
+## Credits
 
-* [pkmital/tensorflow_tutorials](https://github.com/pkmital/tensorflow_tutorials)
-* [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
-* [alrojo/tensorflow-tutorial](https://github.com/alrojo/tensorflow-tutorial)
-* [BinRoot/TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)
-* [tuanavu/tensorflow-basic-tutorials](https://github.com/tuanavu/tensorflow-basic-tutorials)
+## Contributing
 
-| Notebook | Description |
-|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [tsf-basics](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/1_intro/basic_operations.ipynb) | Learn basic operations in TensorFlow, a library for various kinds of perceptual and language understanding tasks from Google. |
-| [tsf-linear](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/2_basic_classifiers/linear_regression.ipynb) | Implement linear regression in TensorFlow. |
-| [tsf-logistic](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/2_basic_classifiers/logistic_regression.ipynb) | Implement logistic regression in TensorFlow. |
-| [tsf-nn](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/2_basic_classifiers/nearest_neighbor.ipynb) | Implement nearest neighboars in TensorFlow. |
-| [tsf-alex](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/3_neural_networks/alexnet.ipynb) | Implement AlexNet in TensorFlow. |
-| [tsf-cnn](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/3_neural_networks/convolutional_network.ipynb) | Implement convolutional neural networks in TensorFlow. |
-| [tsf-mlp](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/3_neural_networks/multilayer_perceptron.ipynb) | Implement multilayer perceptrons in TensorFlow. |
-| [tsf-rnn](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/3_neural_networks/recurrent_network.ipynb) | Implement recurrent neural networks in TensorFlow. |
-| [tsf-gpu](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/4_multi_gpu/multigpu_basics.ipynb) | Learn about basic multi-GPU computation in TensorFlow. |
-| [tsf-gviz](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/5_ui/graph_visualization.ipynb) | Learn about graph visualization in TensorFlow. |
-| [tsf-lviz](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/5_ui/loss_visualization.ipynb) | Learn about loss visualization in TensorFlow. |
---->
+Contributions are welcome!  For bug reports or requests please [submit an issue](https://github.com/Yaduvanshi05Bhupendra/Perl/issues).
+
+## Contact-Info
+
+Feel free to contact me to discuss any issues, questions, or comments.
+
+* Email: [Yaduvanshi05Bhupendra@gmail.com](mailto:Yaduvanshi05Bhupendra@gmail.com)
+* GitHub: [Bhupendra Yadav](https://github.com/Yaduvanshi05Bhupendra)
+* LinkedIn: [Bhupendra Yadav](https://www.linkedin.com/in/yaduvanshi05bhupendra)
+
+## Licence
+
+This repository contains a variety of content; developed by Bhupendra Kumar Yadav, and some from third-parties.  The third-party content is distributed under the license provided by those parties.
+
+The content developed by Bhupendra Kumar Yadav is distributed under the following license:
+
+*I am providing code and resources in this repository to you under an open source license.*
+
+    Copyright 2015 Bhupendra Kumar Yadav
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
