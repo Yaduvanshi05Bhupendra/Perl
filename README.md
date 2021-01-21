@@ -106,8 +106,8 @@ Contributions are welcome!  For bug reports or requests please [submit an issue]
 Feel free to contact me to discuss any issues, questions, or comments.
 
 * Email: [Yaduvanshi05Bhupendra@gmail.com](mailto:Yaduvanshi05Bhupendra@gmail.com)
-* GitHub: [Bhupendra Yadav](https://github.com/Yaduvanshi05Bhupendra)
-* LinkedIn: [Bhupendra Yadav](https://www.linkedin.com/in/yaduvanshi05bhupendra)
+* GitHub: [Bhupendra Kumar Yadav](https://github.com/Yaduvanshi05Bhupendra)
+* LinkedIn: [Bhupendra Kumar Yadav](https://www.linkedin.com/in/yaduvanshi05bhupendra)
 
 ## Licence
 
