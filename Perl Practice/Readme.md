@@ -40,7 +40,7 @@ Note: I'm beginner please suggest any improvement :grin:
 
 ## Contributing
 
-Contributions are welcome!  For bug reports or requests please [submit an issue](https://github.com/Yaduvanshi05Bhupendra/Perl/Perl Practice/issues).
+Contributions are welcome!  For bug reports or requests please [submit an issue](https://github.com/Yaduvanshi05Bhupendra/Perl/Perl%20Practice/issues).
 
 ## Contact-Info
 
