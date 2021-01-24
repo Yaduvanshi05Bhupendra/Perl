@@ -23,7 +23,7 @@ Following are the Perl projects
 
 1. ### Rot13-Cipher
 
-1. #### Overview
+1. **Overview**
 
 Rot13 is an encryption method in which each of the 26 characters a-z or A-Z is replaced by
 the character 13 places ahead or 13 places back in the alphabet. Write a Perl program that
@@ -33,18 +33,22 @@ reads a series of text and outputs the rot13 equivalent.
 
 * **Output of rot13**: *Guvf fragrapr vf gb or pbairegrq va Ebg13 Sbezng. Unatba.*
 
-2. #### Output
+2. **Step followed**
+
+3. **Perl Concept used**
+
+4. **Output**
 
 <br/>
 <p align="center">
   <img src="https://github.com/Yaduvanshi05Bhupendra/Perl/blob/main/Perl%20mini%20Projects/Output%20Images/rot13.jpg">
 </p>
 
-*For code please click here*  [Solution](https://github.com/Yaduvanshi05Bhupendra/Perl/blob/main/Perl%20mini%20Projects/Rot13_cipher.pl)
+> *For code please click here*  [Solution](https://github.com/Yaduvanshi05Bhupendra/Perl/blob/main/Perl%20mini%20Projects/Rot13_cipher.pl)
 
 2. ### Even-Odd-vehical-on-Even-Odd-day
 
-**Problem statement:** 
+1. **Problem statement:** 
 
 **a.** The government has introduced a road rationing system by imposing the ‘odd-even’ rule. On even dates, only cars with license plates ending with an even number will be allowed on the city roads. On odd dates cars with license plates ending with odd number will be allowed. Write a PERL script that will help to create a file containing records of all cars in the city. The input data should be entered while running the script. The file should contain 20 entries in the following format 
 
@@ -57,7 +61,7 @@ reads a series of text and outputs the rot13 equivalent.
 
 **Solution:**
 
-**Step followed**
+2. **Step followed**
 
 a. Data Input
 
@@ -67,9 +71,11 @@ c. Sorting on the basis of Even and Odd
 
 d. Creating new file to store evan and odd registration number speratly
 
-**Perl type used** *File handling, Regural expression, Control stucuture, Looping construct, Standard I\O*
+3. **Perl type used** *File handling, Regural expression, Control stucuture, Looping construct, Standard I\O*
 
-*For code please click here*  [Solution](https://github.com/Yaduvanshi05Bhupendra/Perl/blob/main/Perl%20mini%20Projects/Odd-Even.pl)
+4. **Output**
+
+> *For code please click here*  [Solution](https://github.com/Yaduvanshi05Bhupendra/Perl/blob/main/Perl%20mini%20Projects/Odd-Even.pl)
 
 Note: I'm beginner please suggest any improvement :grin:
 
