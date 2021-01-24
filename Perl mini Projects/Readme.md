@@ -1,4 +1,4 @@
-<h1 align="center">Perl MiniProjects</h1>
+<h1 align="center">Perl Mini Projects</h1>
 
 <br/>
 <p align="center">
@@ -37,7 +37,7 @@ reads a series of text and outputs the rot13 equivalent.
 
 <br/>
 <p align="center">
-  <img src="https://1.bp.blogspot.com/-NL42Z9T4fYM/YAQM1cRmCoI/AAAAAAAAAd4/QkJmiQhm6IgvOBybnnx3ogetMQTLGj98ACLcBGAsYHQ/s320/rot13.jpg">
+  <img src="https://github.com/Yaduvanshi05Bhupendra/Perl/blob/main/Perl%20mini%20Projects/Output%20Images/rot13.jpg">
 </p>
 
 *For code please click here*  [Solution](https://github.com/Yaduvanshi05Bhupendra/Perl/blob/main/Perl%20mini%20Projects/Rot13_cipher.pl)
