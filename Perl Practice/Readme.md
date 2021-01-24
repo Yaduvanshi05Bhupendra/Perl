@@ -1,4 +1,4 @@
-<h1 align="center">Perl Practice and Projects</h1>
+<h1 align="center">Perl Practice</h1>
 
 <br/>
 <p align="center">
