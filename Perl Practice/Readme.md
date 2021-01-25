@@ -34,68 +34,99 @@ Note: I'm beginner please suggest any improvement :grin:
 ## Problems
 1. **Question** 
 *Write a PERL subroutine to convert a decimal number to binary equivalent.*
+
 **Answer**
 
 2. **Question**
 *Write PERL commands to 
+
 a. add 2 arrays together 
+
 b. splice an array 
-(c) empty an array 
-(d) add 2 elements in the beginning of array 
-(e) print the contents of an array. Explain each with an example.*
+
+c. empty an array 
+
+d. add 2 elements in the beginning of array 
+
+e. print the contents of an array. Explain each with an example.
+
 **Answer**
 
 3. **Question**
 *Write a program in PERL to create an array with five elements and print each element in the array.*
+
 **Answer**
 
 4. **Question**
 *Write a PERL program that makes a modified copy of a text file with every string “Fred” is replaced with “Bob”.*
+
 **Answer**
 
 5. **Question**
 *Write a PERL program to find and print the smallest of any three numbers given.*
+
 **Answer**
 
 6. **Question**
-*Write a subroutine in PERL that takes an array of integers, and returns the numbers in the ascending order.
+*Write a subroutine in PERL that takes an array of integers, and returns the numbers in the ascending order.*
+
 **Answer**
 
 7. **Question**
 *Write a PERL program to get list of strings from user (enter in order: fred, barney, wilma, betty) and print in order betty, barney fred wilma.*
+
 **Answer**
 
 8. **Question**
 *Write a PERL program to open and insert “Welcome to VIT University” as the third line in a text file named vitdata.txt.*
+
 **Answer**
 
 9. **Question**
 *Write a Perl script to check if the given two files are same or not, if not same then filter the common lines from both the files to a new file and then perform the following operations
+
 a.	Map the first line to Upper case  
+
 b.	In the last line map every first letter in each word to be Uppercase letter
+
 c.	Also, count the number of digits present in the new file 
+
 d.	Finally, display the values with explanation in the screen*
+
 **Answer**
 
 10. **Question**
 *Write a PERL program that searches for lines starting with “https://” and ending with “.com” and copy those URLs alone and paste in another file.*
+
 **Answer**
 
 11. **Question**
 *Write a Perl script to do the following operations
+
 a.	Prompt the user to enter a sentence of atleast 5 words.
+
 b.	Break the string apart storing the individual strings in an array.
+
 c.	Print the original sentence to the screen with first word capitalized and all others in lowercase.
+
 d.	Print the last 3 letters of each word in the sentence to the screen
+
 e.	Join the second and third words into a string and store in a new variable.
+
 f.	Print this new variable to the screen in all uppercase letters except for the last letter 
+
 g.	Prompt the user to enter their full name
+
 h.	Create a subroutine that returns a lowercase string comprised of the capitalized entered lastname and first initial as a single word (i.e “MARK TUCKER” would be returned as “tuckerm”) when passed the first and last name as arguments.
+
 i.	Prompt the user to enter the day of the week
+
 j.	Convert the day of the week to the first 3 letters in uppercase.
-k.	Print the weekday and the username to the screen with some descriptive text using one print statement.*
+
+k.	Print the weekday and the username to the screen with some descriptive text using one print statement.
 **Answer**
 
+<---
 12. **Question**
 *
 **Answer**
@@ -131,7 +162,7 @@ k.	Print the weekday and the username to the screen with some descriptive text u
 20. **Question**
 *
 **Answer**
-
+---!>
 ## Misc
 
 ## Credits
