@@ -24,6 +24,118 @@
 ## Perl-Practice
 
 ### Perl-Datatype
+Perl has the following three basic data types
+1. Scalars
+2. Arrays
+3. Hashes
+* Variables are the reserved memory locations to store values
+* Based on the data type of a variable, the interpreter allocates memory and decides what can be stored in the reserved memory
+* Assigning different data types to variables, we can store integers, decimals, or strings in these variables
+
+
+**Three types of variables in Perl**
+
+1. A scalar variable will precede by a dollar sign ($) and it can store either a number, a string, or a reference.
+2. An array variable will precede by sign @ and it will store ordered lists of scalars
+3. The Hash variable will precede by sign % and will be used to store sets of key/value pairs
+
+**Creating Variables**
+
+* The equal sign (=) is used to assign values to variables
+* The operand to the left of the = operator is the name of the variable, and the operand to the right of the = operator is the value stored in the variable
+
+#### Scalar Variable
+* A scalar is a single unit of data. That data might be an integer number, floating point, a character, a string or a paragraph
+
+**Numeric Scalars**
+
+* A scalar is most often either a number or a string. Following example demonstrates the usage of various types of numeric scalars
+
+**String Scalars**
+
+**Scalar Operations**
+
+**Array Variables**
+* An array is a variable that stores an ordered list of scalar values
+* Array variables are preceded by an "at" (@) sign
+* To refer to a single element of an array, we will use the dollar sign ($) with the variable name followed by the index of the element in square brackets.
+
+**Array Creation**
+* Array variables are prefixed with the @ sign and are populated using either parentheses or the qw operator.
+– @array = (1, 2, 'Hello');
+– @array = qw/This is an array/;
+* The second line uses the qw// operator, which returns a list of strings, separating the delimited string by white space. In this example, this leads to a four-element array; the first element is 'this' and last (fourth) is 'array'
+* Perl offers a shortcut for sequential numbers and letters
+
+**Adding and Removing Elements in Array**
+
+   * Slicing Array Elements
+
+   * Replacing array elements
+
+* The function called splice() has the following syntax − **splice @ARRAY, OFFSET [ , LENGTH [ , LIST ] ]**
+
+* This function will remove the elements of @ARRAY designated by OFFSET and LENGTH, and replaces them with LIST, if specified. Finally, it returns the elements removed from the array.
+
+   * Transform Strings to Arrays
+   * Transform Arrays to Strings
+   
+**Sorting Arrays**
+* The sort() function sorts each element of an array according to the ASCII Numeric standards
+* **sort [ SUBROUTINE ] LIST**
+
+**Merging Arrays**
+An array is just a comma-separated sequence of values, we can combine them together as shown below
+
+#### Hash Variables
+* A hash is a set of key/value pairs
+* Hash variables are preceded by a percent (%) sign
+* To refer to a single element of a hash, we will use the hash variable name followed by the "key" associated with the value in curly brackets.
+Hash Variables
+
+**Accessing Hash Elements**
+* When accessing individual elements from a hash, you must prefix the variable with a dollar sign ($) and then append the element key within curly brackets after the name of the
+variable
+
+**Extracting Slices**
+* We can extract slices of a hash just as you can extract slices from an array.
+* use @ prefix for the variable to store the returned value because they will be a list of values −
+
+**Extracting Keys and Values**
+* We can get a list of all of the keys from a hash by using keys function, which has the following syntax − **keys %HASH**
+* You can use values function to get a list of all the values. This function has the following syntax − **values %HASH**
+
+**Add and Remove Elements in Hashes**
+* Adding a new key/value pair can be done with one line of code using simple assignment operator
+* But to remove an element from the hash we need to use delete function
+
+**String Literals**
+* Strings are sequences of characters. They are usually alphanumeric values delimited by either single (') or double (") quotes.
+* Double-quoted string literals allow variable interpolation, and single-quoted strings are not.
+* There are certain characters when they are proceeded by a back slash, have special meaning and they are used to represent like newline (\n) or tab (\t).
+* We can embed newlines or any of the following Escape sequences directly in your double quoted strings
+
+**String Literals**
+|Escape sequence | Meaning|
+|------|-------|
+| \\ | Backslash |
+| \' | Single quote |
+| \" | Double quote |
+| \a | Alert or bell |
+| \b | Backspace |
+| \f | Form feed |
+| \n | Newline |
+| \r | Carriage return |
+| \t | Horizontal tab |
+| \v | Vertical tab |
+| \0nn | Creates Octal formatted numbers |
+| \xnn | Creates Hexideciamal formatted |
+
+**Variable Context**
+* Here @names is an array, which has been used in two different contexts.
+* First we copied it into anyother array, i.e., list, so it returned all the elements assuming that context is list context.
+* Next we used the same array and tried to store this array in a scalar, so in this case it returned just the number of elements in this array assuming that context is scalar context.
+
 ### Control-structure
 ### Perl-Pakages
 ### Subroutines
