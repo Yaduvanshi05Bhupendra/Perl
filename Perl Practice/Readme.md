@@ -101,7 +101,7 @@ d.	Finally, display the values with explanation in the screen*
 **Answer**
 
 11. **Question**
-*Write a Perl script to do the following operations
+*Write a Perl script to do the following operations*
 
 a.	Prompt the user to enter a sentence of atleast 5 words.
 
@@ -124,6 +124,7 @@ i.	Prompt the user to enter the day of the week
 j.	Convert the day of the week to the first 3 letters in uppercase.
 
 k.	Print the weekday and the username to the screen with some descriptive text using one print statement.
+
 **Answer**
 
 ## Misc
