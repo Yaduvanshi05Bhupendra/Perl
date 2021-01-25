@@ -38,7 +38,7 @@ Note: I'm beginner please suggest any improvement :grin:
 **Answer**
 
 2. **Question**
-*Write PERL commands to 
+*Write PERL commands to*
 
 a. add 2 arrays together 
 
@@ -83,7 +83,7 @@ e. print the contents of an array. Explain each with an example.
 **Answer**
 
 9. **Question**
-*Write a Perl script to check if the given two files are same or not, if not same then filter the common lines from both the files to a new file and then perform the following operations
+*Write a Perl script to check if the given two files are same or not, if not same then filter the common lines from both the files to a new file and then perform the following operations*
 
 a.	Map the first line to Upper case  
 
@@ -126,43 +126,6 @@ j.	Convert the day of the week to the first 3 letters in uppercase.
 k.	Print the weekday and the username to the screen with some descriptive text using one print statement.
 **Answer**
 
-<---
-12. **Question**
-*
-**Answer**
-
-13. **Question**
-*
-**Answer**
-
-14. **Question**
-*
-**Answer**
-
-15. **Question**
-*
-**Answer**
-
-16. **Question**
-*
-**Answer**
-
-17. **Question**
-*
-**Answer**
-
-18. **Question**
-*
-**Answer**
-
-19. **Question**
-*
-**Answer**
-
-20. **Question**
-*
-**Answer**
----!>
 ## Misc
 
 ## Credits
