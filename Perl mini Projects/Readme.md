@@ -35,7 +35,21 @@ reads a series of text and outputs the rot13 equivalent.
 
 2. **Step followed**
 
-3. **Perl Concept used**
+a. User is asked to enter a sentence
+
+b. Sentence is splitted into character and each character is stored in array
+
+c. Each character is send to subroutine ROT13 for conversion in rot 13
+
+d. In subroutine character is converted into it ASCII value
+
+e. Character is differentiated into 3 category: Capital Character, Small Character and all other character
+
+f. 13 is added to ASCII value of character. If ASCII value of character exceed limit, 26 is subtracted from it
+
+g. Converted character is pushed in array and joined to make ROT13 sentence
+
+3. **Perl Concept used**: *Control stucuture, Looping construct, Standard I\O, subroutine, array, ord() and char()*
 
 4. **Output**
 
